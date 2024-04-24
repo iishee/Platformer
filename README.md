@@ -4,11 +4,58 @@ Welcome to the repository for the scripts of our exciting platforming game! Here
 
 ## Contents:
 
-- `player_movement.py`: Handles player movement and controls. 🏃‍♂️
-- `platform_generator.py`: Generates platforms dynamically during gameplay. 🛠️
-- `collision_detection.py`: Manages collision detection between game objects. 💥
-- `enemy_ai.py`: Implements AI behavior for enemy characters. 🤖
-- `powerup_system.py`: Manages power-ups and their effects in the game. ⚡
+### `CharacterFollow.cs`
+- Description: Script responsible for making the camera follow the character smoothly.
+- Usage: Attach this script to the camera object in your scene to enable smooth character following.
+
+### `Collectable.cs`
+- Description: Script for handling collectible items in the game.
+- Usage: Attach this script to collectible objects in your scene to enable interaction with the player.
+
+### `EnemyDamage.cs`
+- Description: Script for managing damage dealt by enemies.
+- Usage: Attach this script to enemy objects in your scene to enable damage functionality.
+
+### `GameHandler.cs`
+- Description: Main script for managing game states and events.
+- Usage: Attach this script to a game object in your scene to control game flow.
+
+### `GameRespawn.cs`
+- Description: Script for respawning game objects.
+- Usage: Attach this script to objects you want to respawn after certain events.
+
+### `GravityController.cs`
+- Description: Script for controlling gravity in the game.
+- Usage: Attach this script to a game object to customize gravity behavior.
+
+### `Health.cs`
+- Description: Script for managing player health.
+- Usage: Attach this script to the player object to handle health-related functionalities.
+
+### `HealthScript.cs`
+- Description: Alternative script for managing player health.
+- Usage: Another option for handling player health, attach to player object as needed.
+
+### `RestartButton.cs`
+- Description: Script for implementing a restart button in the game.
+- Usage: Attach this script to a UI button to enable game restart functionality.
+
+### `RestartGame.cs`
+- Description: Script for restarting the game.
+- Usage: Attach this script to a game object to enable game restart functionality.
+
+### `SmoothCameraFollow.cs`
+- Description: Script for smoothly following the player character.
+- Usage: Similar to `CharacterFollow.cs`, this script enables smooth camera following.
+
+### `clearPlayerPrefs.cs`
+- Description: Script for clearing player preferences or saved data.
+- Usage: Attach this script to a game object to clear player preferences when needed.
+
+### `nextScene.cs`
+- Description: Script for transitioning to the next scene in the game.
+- Usage: Attach this script to a game object to enable scene transition functionality.
+
 
 ## How to Use:
 
