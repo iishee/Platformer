@@ -2,7 +2,7 @@
 
 Welcome to the repository for the scripts of our exciting platforming game! Below you'll find a brief description of each script included in this repository.
 
-These scripts are part of the platforming game project located in [this Google Drive link](https://drive.google.com/drive/folders/1e1fEDZ7yjQe5tcdXuyn_0puV74PuYjfi?usp=sharing).
+These scripts are part of the platforming game project located in [this Google Drive link]([https://drive.google.com/drive/folders/1e1fEDZ7yjQe5tcdXuyn_0puV74PuYjfi?usp=sharing](https://drive.google.com/drive/folders/1e1fEDZ7yjQe5tcdXuyn_0puV74PuYjfi?usp=drive_link)).
 ## Scripts:
 
 ### `CharacterFollow.cs`
