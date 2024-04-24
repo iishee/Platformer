@@ -1,8 +1,10 @@
 # Platforming Game Scripts 🎮
 
-Welcome to the repository for the scripts of our exciting platforming game! Here you'll find all the code snippets and scripts that power the gameplay mechanics and interactions.
+Welcome to the repository for the scripts of our exciting platforming game! Below you'll find a brief description of each script included in this repository.
 
-## Contents:
+These scripts are part of the platforming game project located in [this Google Drive link](https://drive.google.com/file/d/1nJgyJwyNkAu0T3LT71zoaww6gerhG9MK/view?usp=drive_link).
+
+## Scripts:
 
 ### `CharacterFollow.cs`
 - Description: Script responsible for making the camera follow the character smoothly.
@@ -56,18 +58,9 @@ Welcome to the repository for the scripts of our exciting platforming game! Here
 - Description: Script for transitioning to the next scene in the game.
 - Usage: Attach this script to a game object to enable scene transition functionality.
 
-
-## How to Use:
-
-1. Clone this repository to your local machine using `git clone`.
-2. Open the scripts in your preferred IDE or text editor.
-3. Modify the scripts to fit your game's requirements or use them as they are.
-4. Integrate the scripts into your game project.
-5. Enjoy enhanced gameplay mechanics in your platforming game! 🚀
-
 ## Contributing:
 
-We welcome contributions to improve and expand these scripts. If you have any ideas for new features or enhancements, feel free to fork this repository, make your changes, and submit a pull request. Let's make this platforming game even better together! 🤝
+Feel free to contribute to the improvement and expansion of these scripts. Fork this repository, make your changes, and submit a pull request. Let's make this platforming game even better together! 🤝
 
 ## License:
 
